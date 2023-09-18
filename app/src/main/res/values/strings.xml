@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">MySpotify</string>
+
+    <string name="title_apk">Spotify</string>
+    <string name="song_name">Judul Lagu</string>
+    <string name="auth_song">Pencipta Lagu</string>
+    <string name="view">View</string>
+    <string name="title_lyric">Lirik Lagu</string>
+    <string name="detail_song">Detail Lagu</string>
+    <string name="about">Tentang</string>
+    <string name="detail">Detail</string>
+    <string name="play">Play</string>
+    <string name="description">Deskripsi</string>
+    <string name="title_description">Deskripsi</string>
+    <string name="myName">Wayan Berdyanto</string>
+    <string name="myEmail">aber.panak.atok@gmail.com</string>
+    <string name="share">Berbagi</string>
+
+    <string-array name="data_song_name">
+        <item>Cruel Summer</item>
+        <item>Somebody Pleasure</item>
+        <item>About You</item>
+        <item>Fix You</item>
+        <item>Cars Outside</item>
+        <item>Perfect</item>
+        <item>Until I Found You</item>
+        <item>Thinking Out Loud</item>
+        <item>Monolog</item>
+        <item>Love</item>
+        <item>Understand</item>
+        <item>Still With You</item>
+    </string-array>
+
+    <string-array name="data_auth_song">
+        <item>Taylor Swift</item>
+        <item>Aziz Hendra</item>
+        <item>The 1975</item>
+        <item>Coldplay</item>
+        <item>James Authur</item>
+        <item>One Direction</item>
+        <item>Stephen Sanchez, Em Beihold</item>
+        <item>Ed Sheeren</item>
+        <item>Pamungkas</item>
+        <item>Keyshia Cole</item>
+        <item>Keshi</item>
+        <item>Jung Kook</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/cruelsummer</item>
+        <item>@drawable/somebody</item>
+        <item>@drawable/aboutyou</item>
+        <item>@drawable/coldplay</item>
+        <item>@drawable/jamesathur</item>
+        <item>@drawable/onedirec</item>
+        <item>@drawable/ifoundyou</item>
+        <item>@drawable/edsheeran</item>
+        <item>@drawable/pamungkas</item>
+        <item>@drawable/keisyalove</item>
+        <item>@drawable/understand</item>
+        <item>@drawable/jongkok</item>
+    </integer-array>
+
+    <string-array name="data_description">
+        <item>Dikutip dari IntipSeleb, lagu Cruel Summer menggambarkan kisah cinta yang rumit dan penuh dengan ketidakpastian. Meskipun judulnya mengandung kata "summer" yang sering dikaitkan dengan keceriaan dan kebahagiaan, liriknya sebenarnya mengungkapkan situasi yang lebih rumit dan sulit.</item>
+        <item>Liriknya menceritakan tentang seseorang yang berada di titik terendah dalam hidup. Dalam sebuah wawancara, ia mengatakan bahwa terkadang kita sedang melalui fase di mana kita begitu banyak berjuang dalam setiap aspek kehidupan. Keseluruhan lirik dalam lagu ini menggunakan bahasa Inggris namun tetap mudah dinyanyikan</item>
+        <item>Lagu “About You” memiliki makna seseorang yang tidak pernah melupakan orang yang ia cintai di masa lalu, baik itu perasaan atau kenangan yang pernah dialami bersama</item>
+        <item>Arti Makna Lagu Fix You dari Coldplay, Ia merasakan kesedihan dalam hatinya dan meneteskan air mata. Namun, siapa pun dapat mengatasi kesulitan dan kesedihan apabila berusaha sekuat tenaga menghadapi semuanya dan mencari bantuan.</item>
+        <item>irik dan terjemahan lagu Cars Outside milik James Arthur mengisahkan tentang kesedihan sepasang kekasih yang harus terpisah oleh jarak. Karenanya, mereka berharap dapat selalu menghabiskan waktu bersama. Cars Outside yang dipopulerkan oleh James Arthur ini telah dirilis sejak 29 Juli 2022 lalu.</item>
+        <item>"Perfect" adalah lagu milik grup musik fenomenal asal Inggris, One Direction yang dirilis pada tahun 2015 dalam album Made in the AM. Lagu yang memiliki video klip bernuansa hitam putih ini menceritakan tentang seorang lelaki yang akan selalu ada untuk melindungi dan mencintai sang pujaan hati.</item>
+        <item>Lagu yang dinyanyikan oleh Stephen Sanchez ini menceritakan tentang perasaan cinta seseorang kepada kekasihnya. Awalnya berpisah dengan sang kekasih, tapi ia beruntung bisa bersatu kembali. Bahkan, Stephen Sanchez menyebut nama sang kekasih, Georgia.</item>
+        <item>Lagu romantis ini menceritakan tentang cinta abadi, di mana rasa sayangnya akan tetap sama seperti pertama mereka bertemu hingga tua nanti. Thinking Out Loud yang dirilis tahun 2014 dalam album berjudul X berhasil meraih dua penghargaan Grammy dan beberapa penghargaan lainnya.</item>
+        <item>Lirik lagu ini menggambarkan betapa sulitnya untuk melepaskan diri dari hubungan tersebut meskipun merasa tidak bahagia. Dalam lagu ini, Pamungkas juga menyoroti pentingnya untuk menjaga kesehatan mental dan merawat diri sendiri.</item>
+        <item>Makna lagu Love menceritakan tentang perasaan Keyshia Cole, yang masih mencintai kekasihnya, meski kekasihnya telah meninggalkannya demi wanita lain. Meski telah disakiti begitu dalam, Keyshia Cole seolah tak bisa menerima kenyataan kalau dirinya sudah ditinggalkan oleh sang kekasih.</item>
+        <item>Lagu ini sangat pas untuk menggambarkan perasaan beruntungnya seseorang saat berhasil menemukan orang yang tepat. UNDERSTAND bisa digunakan untuk menyampaikan rasa cinta yang besar pada pasangan</item>
+        <item>Makna lirik lagu "Still With You" secara garis besar menggambarkan keinginan Jungkook untuk kembali bisa bersama dengan ARMY setelah pandemi. Jungkook mengatakan bahwa selama pandemi ia hanya bisa beraktivitas di dalam ruangan, di dalam kamarnya yang sepi, tanpa ada suara ARMY yang selama ini mendukung BTS.</item>
+    </string-array>
+
+    <string-array name="data_views">
+        <item>1.4K Views</item>
+        <item>3.1K Views</item>
+        <item>2.1K Views</item>
+        <item>1.1K Views</item>
+        <item>5.1K Views</item>
+        <item>8.1K Views</item>
+        <item>4.1K Views</item>
+        <item>3.4K Views</item>
+        <item>2.4K Views</item>
+        <item>6.1K Views</item>
+        <item>3.1K Views</item>
+        <item>2.9K Views</item>
+    </string-array>
+
+</resources>

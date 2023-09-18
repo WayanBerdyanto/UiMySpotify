@@ -1,0 +1,106 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+<!--    <style name="Base.Theme.MySpotify" parent="Theme.Material3.DayNight">-->
+    <style name="Base.Theme.MySpotify" parent="Theme.Material3.Dark">
+        <!-- Customize your light theme here. -->
+        <!--Primary List Color-->
+        <item name="colorPrimary">@color/gray_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!--    Secondary List Color-->
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <!--  START  About Style-->
+    <style name="TextDetail">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextDetail.HeadlineMedium">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.Material3.HeadlineMedium</item>
+    </style>
+
+    <style name="TextDetail.HeadlineMedium.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextDetail.TitleMedium">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.TitleMedium</item>
+    </style>
+
+    <style name="TextDetail.TitleMedium.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextDetail.TitleMedium.Bold.MarginLeftRight">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium">
+        <item name="android:textAppearance">@style/TextAppearance.Material3.BodyMedium</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium.Gray">
+        <item name="android:textColor">@color/gray_dark</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium.Gray.MarginLeftRight">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium.White">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium.White.MarginAll">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="TextDetail.BodyMedium.Bold">
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ButtonGeneral">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginRight">16dp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+
+    <style name="ButtonGeneral.SecondaryVariant">
+        <item name="android:backgroundTint">@color/green</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <!--  END  About Style-->
+
+    <!--    Start List Main Style-->
+    <style name="TextList">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <style name="TextList.MarginStartEnd">
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginEnd">0dp</item>
+    </style>
+    <!--    End List Main Style-->
+
+<!--    My SplashScreen-->
+    <style name="SplashScreenTheme" parent="Theme.Material3.Dark">
+        <item name="colorPrimary">@color/gray_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+    <style name="Theme.MySpotify" parent="Base.Theme.MySpotify" />
+</resources>
